@@ -1,1 +1,2 @@
-alert("Das ist ein Test!");
+//alert("Das ist ein Test!");
+document.title = "Test";
